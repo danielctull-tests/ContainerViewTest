@@ -1,13 +1,13 @@
 //
-//  AppDelegate.m
+//  ToggleViewController.h
 //  ContainerViewTest
 //
 //  Created by Daniel Tull on 08.10.2013.
 //  Copyright (c) 2013 Daniel Tull. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import <UIKit/UIKit.h>
 
-@implementation AppDelegate
+@interface ToggleViewController : UIViewController
 
 @end
